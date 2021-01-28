@@ -1,0 +1,391 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+}
+.pageHome{
+
+}
+
+.section{
+    width: 100%;
+    float: left;
+}
+.container{
+    float: none;
+    width: 1170px;
+    margin: 0 auto;
+}
+.section.main .container{
+    background-color: white;
+}
+.section.main .container .event-special{
+    background-size: contain;
+    margin-bottom: 50px;
+}
+.header{
+    width: 100%;
+    height: 750px;
+    color: #fafafa;
+
+}
+.header .cover-back{
+    width: 100%;
+    height: 750px;
+    position: absolute;
+    overflow: hidden;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    background-image: url("../imgs/home-1-slider-image-3.jpg");
+    background-size: cover;
+}
+
+
+.header .background {
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-image: url("../imgs/home-1-slider-image-2-1.jpg");
+    animation: enlarge 40s forwards infinite,
+    change-img 80s step-start infinite;
+}
+@keyframes enlarge {
+    0%,100%{
+        transform: scale(1);
+    }50%{ transform: scale(1.2);
+
+         }
+
+}
+@-webkit-keyframes change-img {
+    0%,100%{
+        background-image: url("../imgs/home-1-slider-image-2-1.jpg");
+    } 50%{
+            background-image: url("../imgs/home-1-slider-image-1.jpg") ;
+    }75% {
+            background-image: url("../imgs/home-1-slider-image-3.jpg");
+                }
+}
+
+
+.header .container{
+    height: 100%;
+
+}
+.header .top-header{
+    float: left;
+    width: 1140px;
+    box-sizing: border-box;
+    background-color: #222222;
+    position: fixed;
+    opacity: 0.7;
+    top: 0;
+    transition: all 500ms;
+
+}
+.header .top-header:hover{
+    height: 60px;
+    padding-top: 5px;
+    transform:translateY(10px);
+}
+.header:hover .top-header{
+    transform:translateY(10px);
+}
+
+.header .logo{
+    float: left;
+    text-transform: uppercase;
+    font-size: 30px;
+    font-weight: 600;
+    padding-left: 10px;
+}
+.header .logo img{
+   vertical-align: bottom;
+}
+.header .menu{
+    float: right;
+    width: 50%;
+    padding-top: 12px;
+}
+
+.header .menu ul li{
+    margin-top: 5px;
+    font-size: 20px;
+    font-weight:600;
+    float: left;
+    margin-left: 35px ;
+    list-style: none;
+    text-transform: uppercase;
+    opacity: 0.7;
+    transition: border-bottom 0.3s;
+}
+.header .menu ul li:hover{
+    opacity: 1;
+    cursor: pointer;
+    border-bottom: white 2px solid;
+}
+.header .under-header{
+    float: right;
+    width: 60%;
+    text-align: center;
+    margin-top: 600px;
+    opacity: 0;
+    animation: under-header 1s forwards;
+}
+@keyframes under-header {
+    from{
+        margin-top: 600px;
+        opacity: 0;
+    }to{
+        margin-top: 150px;
+             opacity: 1;
+         }
+
+}
+.header .under-header img{
+    margin-bottom: 30px;
+}
+.header .under-header h1{
+    font-size: 100px;
+    font-weight: 500;
+
+}
+.header .under-header p{
+    font-family: "Segoe UI Symbol";
+    font-weight: 600;
+}
+.main .event-special {
+    float: left;
+    width: 100%;
+    height: 400px;
+    background-color: #2aabd2;
+    margin: 3px 0;
+}
+.main .product{
+
+}
+.main .promotions-product{
+    float: left;
+    height: 600px;
+    margin-bottom:10px;
+     color: sandybrown;
+
+}
+.main .promotions-product h2{
+    font-family: "Open Sans";
+    font-weight: 600;
+    font-size: 30px;
+    width: 250px;
+    text-transform: capitalize;
+    text-align: center;
+    margin-left: 445px;
+    color: #8a6d3b;
+
+}
+.main .promotions-product .promotions-product-title{
+    text-align: center;
+}
+.main .promotions-product .promotions-product-title a{
+    font-size: 20px;
+    font-weight: 600;
+    border: #8a6d3b solid 1px;
+    background-color: #8a6d3b;
+    color: white;
+    width: 200px;
+    text-decoration: none;
+    transition: all 300ms;
+}
+.main .promotions-product .promotions-product-title p{
+    margin: 20px 0;
+}
+.main .promotions-product .promotions-product-title a:hover{
+    background:none;
+    color: #8a6d3b;
+}
+.main .promotions-product div span{
+    font-size: 20px;
+    font-weight: 600;
+    color: #2aabd2;
+}
+.main .promotions-product #promotions-product-img img{
+
+    margin: 15px 0;
+    max-width: 100%;
+    height:300px;
+}
+.main .promotions-product #promotions-product-img div{
+    float: left;
+    max-width: calc(33.3% - 15px);
+}
+.main .promotions-product #promotions-product-img #middle{
+    margin: 0 23px;
+}
+.main .promotions-product #promotions-product-img p{
+    font-size: 18px;
+    font-weight: 600;
+
+}
+
+.other-product{
+
+}
+.product-left, .product-right{
+    width: 100%;
+    float: left;
+    margin: 10px 0;
+    height: 500px;
+    background:linear-gradient( to left, #f5e79e, snow);
+}
+/*.product-right{
+
+    background:linear-gradient( to r, #f5e79e, snow);
+}*/
+
+
+.other-product .product-left img{
+    width: 50%;
+    height: 100%;
+    float: left;
+}
+.other-product .product-right img{
+    width: 50%;
+    height: 100%;
+    float: right;
+}
+.product-left div, .product-right div {
+    color: sandybrown;
+    font-weight: 600;
+    font-size: 60px;
+    text-transform: capitalize;
+    text-align: center;
+    padding-top: 8%;
+}
+
+
+
+/*.other-product .product-left div{
+    background:linear-gradient( to left,#,snow, transparent);
+    height:100%;
+    width: 100%;
+}*/
+.way-to-plls{
+    width: 100%;
+    float: left;
+    box-sizing: border-box;
+}
+.way-to-plls p{
+    float: left;
+}
+.way-to-plls img{
+    width: 180px;
+    height: 220px;
+    float: right;
+    margin: 100px 0 0 30px;
+}
+.waytopll{
+    float: left;
+}
+.waytopll img{
+    float: left;
+    width: 500px;
+    height: 300px;
+    margin: 0px;
+}
+.waytopll p{
+    float: left;
+    font-size: 30px;
+    font-weight: 600;
+    color: #2aabd2;
+    font-family: "Bookman Old Style";
+}
+.section.footer{
+    width: 100%;
+    height: 500px;
+    background-image: url("../imgs/fottercoffee.jpg");
+    background-size: cover;
+    color: white;
+}
+.footer .namestore{
+    float: left;
+    margin-top: 50px;
+    text-align: center;
+}
+.footer .namestore h1{
+    margin-top: 30px;
+    font-size: 40px;
+    font-weight: 600;
+
+}
+.footer .listaddress{
+    margin: 80px 0 0 100px;
+    float: left;
+    width: 445px;
+}
+.footer .connect {
+    float: left;
+    width: 200px;
+    margin: 80px 0 0 100px;
+    font-size: 25px;
+    text-transform: uppercase;
+    font-weight: 600;
+    padding-left: 10px;
+
+}
+.footer .cover-footer{
+    width: 100%;
+    height: 100%;
+    background-color: #222222;
+    opacity: 0.6;
+}
+.footer .listaddress h2{
+    font-size: 25px;
+    text-transform: uppercase;
+    font-weight: 600;
+
+}
+.footer .listaddress li{
+    margin-top: 10px;
+    font-size: 20px;
+    margin-left: 25px;
+
+}
+.footer .connect h2{
+    font-size: 25px;
+    padding-left: 10px;
+    font-weight: 600;
+}
+.footer .connect ul{
+    list-style: none;
+    font-size: 30px;
+
+}
+.footer .connect ul li{
+    margin: 30px 10px;
+    float: left;
+}
+.footer .listaddress li:last-child{
+    list-style: none;
+}
+.footer .footerunder{
+    width:100%;
+    float: left;
+    margin-top: 50px;
+    text-align: center;
+    text-align: center;
+    border-top: white solid 2px;
+    font-size: 18px;
+}
+.footer .footerunder p{
+    float: left ;
+    margin-left: 100px;
+}
+.footer .footerunder div{
+    float: left;
+    margin-left: 200px;
+}
+.footer .footerunder div span{
+    margin-right: 50px;
+}
