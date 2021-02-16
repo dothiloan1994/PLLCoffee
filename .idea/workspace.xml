@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd2a3380-eec9-4acb-a40a-07e03494552c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/logo-1.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sinhtocamxoai.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tralai.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trasuakhoaimon.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trasuavietquoc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/traxoai.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bacsiu.html" beforeDir="false" afterPath="$PROJECT_DIR$/bacsiu.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cappuccino.html" beforeDir="false" afterPath="$PROJECT_DIR$/cappuccino.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/coffee_detail.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/coffee_detail.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/latte.html" beforeDir="false" afterPath="$PROJECT_DIR$/latte.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lienhe.html" beforeDir="false" afterPath="$PROJECT_DIR$/lienhe.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +61,7 @@
       <workItem from="1611837668705" duration="35000" />
       <workItem from="1611837848797" duration="4439000" />
       <workItem from="1613446487487" duration="380000" />
-      <workItem from="1613446926669" duration="11485000" />
+      <workItem from="1613446926669" duration="13090000" />
     </task>
     <task id="LOCAL-00001" summary="Tao folder">
       <created>1611837921805</created>
@@ -122,7 +112,21 @@
       <option name="project" value="LOCAL" />
       <updated>1613448530903</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Add new html&#10;Add footer and header">
+      <created>1613466498775</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1613466498775</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Add new html&#10;Add footer and header">
+      <created>1613466540815</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1613466540815</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
