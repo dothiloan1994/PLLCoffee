@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="369d0865-12ed-42de-a647-45831fd57021" name="Default Changelist" comment="gui ban hoan thien">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/menuLLP.html" beforeDir="false" afterPath="$PROJECT_DIR$/menuLLP.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +65,9 @@
       <workItem from="1613707447900" duration="839000" />
       <workItem from="1613726915145" duration="42000" />
       <workItem from="1613726964407" duration="18000" />
-      <workItem from="1613726983950" duration="1726000" />
+      <workItem from="1613726983950" duration="2422000" />
+      <workItem from="1613730870043" duration="90000" />
+      <workItem from="1613733535174" duration="153000" />
     </task>
     <task id="LOCAL-00001" summary="gui ban demo">
       <created>1611838970195</created>
@@ -131,7 +132,21 @@
       <option name="project" value="LOCAL" />
       <updated>1613707677577</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="commit aos">
+      <created>1613729196482</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1613729196482</updated>
+    </task>
+    <task id="LOCAL-00011" summary="commit aos">
+      <created>1613733592077</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1613733592077</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,6 +170,7 @@
     <MESSAGE value="gui ban" />
     <MESSAGE value="gui ban hoan thien" />
     <MESSAGE value="delete" />
-    <option name="LAST_COMMIT_MESSAGE" value="delete" />
+    <MESSAGE value="commit aos" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit aos" />
   </component>
 </project>
