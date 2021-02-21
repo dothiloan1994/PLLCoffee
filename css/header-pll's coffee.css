@@ -1,0 +1,249 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+}
+.pageHome{
+
+}
+
+.section{
+    width: 100%;
+    float: left;
+}
+.container-header{
+    float: none;
+    width: 1170px;
+    margin: 0 auto;
+}
+.section.main .container-header{
+    background-color: white;
+}
+
+.header{
+    width: 100%;
+    height: 500px;
+    color: #fafafa;
+
+}
+.header .cover-back{
+    width: 100%;
+    height: 500px;
+    position: absolute;
+    overflow: hidden;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    background-image: url("../imgs/2331.jpg");
+    background-size: cover;
+}
+
+
+.header .background {
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-image: url("../imgs/8may-pha-ca-phe-2-1601893823870601569388.jpg");
+    animation: enlarge 40s forwards infinite,
+    change-img 80s step-start infinite;
+}
+@keyframes enlarge {
+    0%,100%{
+        transform: scale(1);
+    }50%{ transform: scale(1.2);
+
+     }
+
+}
+@-webkit-keyframes change-img {
+    0%,100%{
+        background-image: url("../imgs/pngtree-coffee-fresh-brown-poster-banner-background-image_133007.jpg");
+    } 50%{
+          background-image: url("../imgs/8may-pha-ca-phe-2-1601893823870601569388.jpg") ;
+      }75% {
+           background-image: url("../imgs/2331.jpg");
+       }
+}
+
+
+.header .container-header{
+    height: 100%;
+
+}
+.header .top-header{
+    float: left;
+    width: 1140px;
+    box-sizing: border-box;
+    background-color: #222222;
+    position: fixed;
+    opacity: 0.7;
+    top: 0;
+    transition: all 500ms;
+    z-index: 2;
+
+}
+.header .top-header:hover{
+    height: 60px;
+    padding-top: 5px;
+    transform:translateY(10px);
+}
+.header:hover .top-header{
+    transform:translateY(10px);
+}
+
+.header .logo{
+    float: left;
+    text-transform: uppercase;
+    font-size: 30px;
+    font-weight: 600;
+    padding-left: 10px;
+}
+.header .logo img{
+    vertical-align: bottom;
+}
+.header .menu{
+    float: right;
+    width: 50%;
+    padding-top: 12px;
+}
+
+.header .menu ul li{
+    margin-top: 5px;
+    font-size: 20px;
+    font-weight:600;
+    float: left;
+    margin-left: 35px ;
+    list-style: none;
+    text-transform: uppercase;
+    opacity: 0.7;
+    transition: border-bottom 0.3s;
+}
+.header .menu ul li a{
+    text-decoration: none;
+    color: white ;
+}
+.header .menu ul li:hover{
+    opacity: 1;
+    cursor: pointer;
+    border-bottom: white 2px solid;
+}
+.header .under-header{
+    float: right;
+    width: 100%;
+    text-align: center;
+    margin-top: 600px;
+    opacity: 0;
+    animation: under-header 1s forwards;
+}
+@keyframes under-header {
+    from{
+        margin-top: 600px;
+        opacity: 0;
+    }to{
+         margin-top: 100px;
+         opacity: 1;
+     }
+
+}
+.header .under-header img{
+    margin-bottom: 30px;
+    width: 200px;
+    height: 200px;
+}
+.header .under-header h1{
+    font-size: 60px;
+    font-weight: 500;
+
+}
+.header .under-header p{
+    font-family: "Segoe UI Symbol";
+    font-weight: 600;
+}
+.section.footer{
+    width: 100%;
+    height: 500px;
+    background-color: #222222;
+    color: white;
+}
+.footer .namestore{
+    float: left;
+    margin-top: 50px;
+    text-align: center;
+}
+.footer .namestore h1{
+    margin-top: 30px;
+    font-size: 40px;
+    font-weight: 600;
+
+}
+.footer .listaddress{
+    margin: 80px 0 0 100px;
+    float: left;
+    width: 445px;
+}
+.footer .connect {
+    float: left;
+    width: 200px;
+    margin: 80px 0 0 100px;
+    font-size: 25px;
+    text-transform: uppercase;
+    font-weight: 600;
+    padding-left: 10px;
+
+}
+.footer .cover-footer{
+    width: 100%;
+    height: 100%;
+    background-color: #222222;
+    opacity: 0.6;
+}
+.footer .listaddress h2{
+    font-size: 25px;
+    text-transform: uppercase;
+    font-weight: 600;
+
+}
+.footer .listaddress li{
+    margin-top: 10px;
+    font-size: 20px;
+    margin-left: 25px;
+
+}
+.footer .connect h2{
+    font-size: 25px;
+    padding-left: 10px;
+    font-weight: 600;
+}
+.footer .connect ul{
+    list-style: none;
+    font-size: 30px;
+
+}
+.footer .connect ul li{
+    margin: 30px 10px;
+    float: left;
+}
+.footer .listaddress li:last-child{
+    list-style: none;
+}
+.footer .footerunder{
+    width:100%;
+    float: left;
+    margin-top: 50px;
+    text-align: center;
+    border-top: white solid 2px;
+    font-size: 18px;
+}
+.footer .footerunder p{
+    float: left ;
+    margin-left: 100px;
+}
+.footer .footerunder div{
+    float: left;
+    margin-left: 270px;
+}
+.footer .footerunder div span{
+    margin-right: 50px;
+}
