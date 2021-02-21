@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bada62f5-41d5-455d-a382-2db6b56f508f" name="Default Changelist" comment="">
+    <list default="true" id="bada62f5-41d5-455d-a382-2db6b56f508f" name="Default Changelist" comment="khac luong">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2_18_2021_11_33_PM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2_18_2021_11_33_PM__Default_Changelist_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2_18_2021_11_50_PM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2_18_2021_11_50_PM__Default_Changelist_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2_19_2021_12_04_AM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2_19_2021_12_04_AM__Default_Changelist_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PLL's coffee.html" beforeDir="false" afterPath="$PROJECT_DIR$/PLL's coffee.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/PLL's Coffee.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/PLL's Coffee.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/header-footer pll's coffee.html" beforeDir="false" afterPath="$PROJECT_DIR$/header-footer pll's coffee.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/header-pll's coffee.html" beforeDir="false" afterPath="$PROJECT_DIR$/header-pll's coffee.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tralai.html" beforeDir="false" afterPath="$PROJECT_DIR$/tralai.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,9 +19,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/css/introduceLLP.css" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1npqzqfLWI2UNastn4105z0sgBU" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -49,9 +54,9 @@
       <workItem from="1613666516060" duration="390000" />
       <workItem from="1613666915178" duration="991000" />
       <workItem from="1613745906832" duration="831000" />
-      <workItem from="1613746762230" duration="1920000" />
-      <workItem from="1613873420446" duration="2662000" />
-      <workItem from="1613911285757" duration="1587000" />
+      <workItem from="1613746762230" duration="3494000" />
+      <workItem from="1613832568550" duration="2256000" />
+      <workItem from="1613927403302" duration="2191000" />
     </task>
     <task id="LOCAL-00001" summary="khac luong">
       <created>1613746560088</created>
@@ -67,52 +72,21 @@
       <option name="project" value="LOCAL" />
       <updated>1613747872393</updated>
     </task>
-    <task id="LOCAL-00003" summary="commit all link">
-      <created>1613911791691</created>
+    <task id="LOCAL-00003" summary="khac luong">
+      <created>1613749136990</created>
       <option name="number" value="00003" />
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1613911791691</updated>
+      <updated>1613749136990</updated>
     </task>
-    <task id="LOCAL-00004" summary="commit introduce yogurt link">
-      <created>1613912000783</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1613912000783</updated>
-    </task>
-    <task id="LOCAL-00005" summary="fix introduce">
-      <created>1613912698259</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1613912698259</updated>
-    </task>
-    <option name="localTasksCounter" value="6" />
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="khac luong" />
-    <MESSAGE value="commit files" />
-    <MESSAGE value="Merge branch 'master' of https://github.com/dothiloan1994/PLLCoffee&#10;&#10; Conflicts:&#10;&#9;.idea/workspace.xml" />
-    <MESSAGE value="commit all link" />
-    <MESSAGE value="commit introduce yogurt link" />
-    <MESSAGE value="fix introduce" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix introduce" />
+    <option name="LAST_COMMIT_MESSAGE" value="khac luong" />
   </component>
 </project>
