@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bada62f5-41d5-455d-a382-2db6b56f508f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2_18_2021_11_33_PM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2_18_2021_11_33_PM__Default_Changelist_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2_18_2021_11_50_PM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2_18_2021_11_50_PM__Default_Changelist_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2_19_2021_12_04_AM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2_19_2021_12_04_AM__Default_Changelist_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/introduceLLP.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/introduceLLP.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/menuLLP.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/menuLLP.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/introducePLL.html" beforeDir="false" afterPath="$PROJECT_DIR$/introducePLL.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lienhe.html" beforeDir="false" afterPath="$PROJECT_DIR$/lienhe.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/menuLLP.html" beforeDir="false" afterPath="$PROJECT_DIR$/menuLLP.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +51,7 @@
       <workItem from="1613745906832" duration="831000" />
       <workItem from="1613746762230" duration="1920000" />
       <workItem from="1613873420446" duration="2662000" />
-      <workItem from="1613911285757" duration="342000" />
+      <workItem from="1613911285757" duration="1124000" />
     </task>
     <task id="LOCAL-00001" summary="khac luong">
       <created>1613746560088</created>
@@ -75,7 +67,21 @@
       <option name="project" value="LOCAL" />
       <updated>1613747872393</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="commit all link">
+      <created>1613911791691</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1613911791691</updated>
+    </task>
+    <task id="LOCAL-00004" summary="commit introduce yogurt link">
+      <created>1613912000783</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1613912000783</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,6 +103,8 @@
     <MESSAGE value="khac luong" />
     <MESSAGE value="commit files" />
     <MESSAGE value="Merge branch 'master' of https://github.com/dothiloan1994/PLLCoffee&#10;&#10; Conflicts:&#10;&#9;.idea/workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of https://github.com/dothiloan1994/PLLCoffee&#10;&#10; Conflicts:&#10;&#9;.idea/workspace.xml" />
+    <MESSAGE value="commit all link" />
+    <MESSAGE value="commit introduce yogurt link" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit introduce yogurt link" />
   </component>
 </project>
