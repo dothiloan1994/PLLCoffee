@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bada62f5-41d5-455d-a382-2db6b56f508f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PLL's coffee.html" beforeDir="false" afterPath="$PROJECT_DIR$/PLL's coffee.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +51,7 @@
       <workItem from="1613745906832" duration="831000" />
       <workItem from="1613746762230" duration="1920000" />
       <workItem from="1613873420446" duration="2662000" />
-      <workItem from="1613911285757" duration="1124000" />
+      <workItem from="1613911285757" duration="1587000" />
     </task>
     <task id="LOCAL-00001" summary="khac luong">
       <created>1613746560088</created>
@@ -81,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613912000783</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="fix introduce">
+      <created>1613912698259</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1613912698259</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,6 +112,7 @@
     <MESSAGE value="Merge branch 'master' of https://github.com/dothiloan1994/PLLCoffee&#10;&#10; Conflicts:&#10;&#9;.idea/workspace.xml" />
     <MESSAGE value="commit all link" />
     <MESSAGE value="commit introduce yogurt link" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit introduce yogurt link" />
+    <MESSAGE value="fix introduce" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix introduce" />
   </component>
 </project>
