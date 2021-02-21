@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="369d0865-12ed-42de-a647-45831fd57021" name="Default Changelist" comment="gui ban hoan thien">
+      <change beforePath="$PROJECT_DIR$/bacsiu.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/introducePLL.html" beforeDir="false" afterPath="$PROJECT_DIR$/introducePLL.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/menuLLP.html" beforeDir="false" afterPath="$PROJECT_DIR$/menuLLP.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/css/introduceLLP.css" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1nhMLlDnXrzYKTMhaZ3gLxloi0i" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="369d0865-12ed-42de-a647-45831fd57021" name="Default Changelist" comment="" />
+      <created>1611837816032</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611837816032</updated>
+      <workItem from="1611837817165" duration="663000" />
+      <workItem from="1611838720442" duration="6000" />
+      <workItem from="1611838941385" duration="1849000" />
+      <workItem from="1611842845088" duration="614000" />
+      <workItem from="1612085281105" duration="2207000" />
+      <workItem from="1612148337577" duration="6175000" />
+      <workItem from="1612164215099" duration="1298000" />
+      <workItem from="1612862674923" duration="1238000" />
+      <workItem from="1612872904634" duration="112000" />
+      <workItem from="1613638683013" duration="599000" />
+      <workItem from="1613704823640" duration="2522000" />
+    </task>
+    <task id="LOCAL-00001" summary="gui ban demo">
+      <created>1611838970195</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1611838970195</updated>
+    </task>
+    <task id="LOCAL-00002" summary="gui ban demo">
+      <created>1611840219623</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1611840219623</updated>
+    </task>
+    <task id="LOCAL-00003" summary="gui ban demo">
+      <created>1611840459140</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1611840459140</updated>
+    </task>
+    <task id="LOCAL-00004" summary="ab">
+      <created>1611842882468</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1611842882468</updated>
+    </task>
+    <task id="LOCAL-00005" summary="gui ban hoan thien">
+      <created>1612165050957</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1612165050957</updated>
+    </task>
+    <task id="LOCAL-00006" summary="gui ban hoan thien">
+      <created>1613706029007</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1613706029007</updated>
+    </task>
+    <task id="LOCAL-00007" summary="gui ban hoan thien">
+      <created>1613706036354</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1613706036354</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="gui ban demo" />
+    <MESSAGE value="ab" />
+    <MESSAGE value="gui ban" />
+    <MESSAGE value="gui ban hoan thien" />
+    <option name="LAST_COMMIT_MESSAGE" value="gui ban hoan thien" />
+  </component>
+</project>
