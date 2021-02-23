@@ -23,7 +23,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/KhacLuong.Semesem2.BuildingWeb" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -50,6 +50,7 @@
       <workItem from="1613832568550" duration="2256000" />
       <workItem from="1613927403302" duration="4084000" />
       <workItem from="1613982480153" duration="1141000" />
+      <workItem from="1614088979563" duration="279000" />
     </task>
     <task id="LOCAL-00001" summary="khac luong">
       <created>1613746560088</created>
@@ -86,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613930751358</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="khac luong">
+      <created>1614089265692</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1614089265692</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
