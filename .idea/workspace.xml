@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bada62f5-41d5-455d-a382-2db6b56f508f" name="Default Changelist" comment="khac luong">
+    <list default="true" id="bada62f5-41d5-455d-a382-2db6b56f508f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,7 +23,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/KhacLuong.Semesem2.BuildingWeb" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -48,7 +48,8 @@
       <workItem from="1613745906832" duration="831000" />
       <workItem from="1613746762230" duration="3494000" />
       <workItem from="1613832568550" duration="2256000" />
-      <workItem from="1613927403302" duration="2955000" />
+      <workItem from="1613927403302" duration="4084000" />
+      <workItem from="1613982480153" duration="1141000" />
     </task>
     <task id="LOCAL-00001" summary="khac luong">
       <created>1613746560088</created>
@@ -78,7 +79,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613930006858</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="khac luong">
+      <created>1613930751358</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1613930751358</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
